@@ -10,7 +10,7 @@ public class LockedMeApp {
 
     public static void main(String[] args) {
         System.out.println("Welcome to LockedMe.com");
-        System.out.println("Developer: Your Name");
+        System.out.println("Developer: Edwina Thaba");
 
         // Create the root directory if it doesn't exist
         File rootDir = new File(ROOT_DIRECTORY);
